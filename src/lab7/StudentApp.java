@@ -20,5 +20,14 @@ public class StudentApp {
         Student std2 = new Student("s358411110061","Girl",'F');
         System.out.println(std1.getName());
         System.out.println(std2.getName());
+
+        System.out.println(std1.getName());
+        System.out.println(std2.getName());
+
+        System.out.println(std1.toString());
+        System.out.println(std2.toString());
+
+
+
     }
 }//class
