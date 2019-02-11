@@ -5,7 +5,7 @@ public class ex3 {
        //if-else-if
        //simple Grade Calculator
         //F=0-49, D=50-59, C=60-69, B= 70-79, A=80-100
-       int scoer = 69;
+       int scoer = 110;
        if(scoer>=0&&scoer<=49)
            System.out.println("Grade F.");
        else if (scoer>=50&&scoer<=59)

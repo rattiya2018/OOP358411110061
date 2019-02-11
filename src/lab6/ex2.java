@@ -2,7 +2,7 @@ package lab6;
 
 public class ex2 {
     public static void main(String[] args) {
-        //compare
+        //compare//เปรียบเทียบ
         String m = "Hello";
         String n = "hello";
         //=
@@ -24,6 +24,5 @@ public class ex2 {
             System.out.println(false);
         else
             System.out.println("m less than n");
-
     }
 }

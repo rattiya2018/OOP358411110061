@@ -22,7 +22,5 @@ public class ex1 {
             System.out .println("คุณแก่");
         else
             System.out.println("คุณอายุน้อย");
-
-
     }//main
 }//class

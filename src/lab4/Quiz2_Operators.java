@@ -39,11 +39,7 @@ public class Quiz2_Operators {
         return w+h;
 
 
-
-
     }//maim
-
-
 
 
 }//class

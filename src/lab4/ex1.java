@@ -12,8 +12,6 @@ public class ex1 {
     }//B
 
 
-
-
     public static void main(String[] args) {
         System.out.println("Hello Main");
 //        for (int i=0;i<10;i++){
@@ -39,7 +37,6 @@ public class ex1 {
      int c = a + b ;
          return c;
      }
-
 
 
 

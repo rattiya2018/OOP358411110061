@@ -4,7 +4,7 @@ public class ex2 {
     public static void main(String[] args) {
 
         //if
-        int x = 10;
+        int x = 15;
         if (x < 10) {
             System.out.println("x less than 10.");
         }else {
