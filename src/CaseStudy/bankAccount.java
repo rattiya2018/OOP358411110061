@@ -21,7 +21,7 @@ public class bankAccount {
     public  void doposit (double amount){
         this.balance += amount;//this.balance = this.balance += amount;
     }
-    public  void dop (double amount){
+    public  void withdraw (double amount){
         this.balance -= amount;//
     }
 
