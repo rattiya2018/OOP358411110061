@@ -1,4 +1,4 @@
-package CaseStudy;//
+package CaseStudy;
 
 public class BankApp {
     public static void main(String[] args) {
